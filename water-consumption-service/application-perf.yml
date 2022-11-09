@@ -7,6 +7,6 @@ management:
       exposure:
         include:
         - '*'
-water-consumption-config-server:
+water-consumption-service:
   irrigationArea: 500.0
   appliedBlade: 2.0
